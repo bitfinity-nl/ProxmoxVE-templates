@@ -5,7 +5,7 @@
 # Author: Bitfinity / L. Rutten
 # Owner: Bitfinity / L. Rutten
 #
-# File: ubuntu/files/convert-ubuntu-2-template.sh
+# File: ubuntu-2404-lts/files/convert-ubuntu-2-template.sh
 #
 # Description:
 #   This bash script contains the steps to prepare Ubuntu for a ProxmoxVE template with cloudinit.
